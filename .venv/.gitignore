@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Evitar vazamento de dados locais
+Contatos.xlsx
+selenium_profile/
+.venv/
+.idea/
+__pycache__/
+*.log
